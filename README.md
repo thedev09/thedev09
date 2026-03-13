@@ -61,12 +61,6 @@ Full-stack developer from Himachal, India. I build trading systems, web apps, an
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thedev09&theme=tokyonight&hide_border=true)
 
-![Profile Details](https://raw.githubusercontent.com/thedev09/thedev09/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
-![Repos per Language](https://raw.githubusercontent.com/thedev09/thedev09/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
-![Most Commit Language](https://raw.githubusercontent.com/thedev09/thedev09/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
-![Stats](https://raw.githubusercontent.com/thedev09/thedev09/main/profile-summary-card-output/tokyonight/3-stats.svg)
-![Productive Time](https://raw.githubusercontent.com/thedev09/thedev09/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
-
 ### Links
 
 [`imemyself.dev`](https://imemyself.dev) | [`@thakur_d09`](https://twitter.com/thakur_d09)
