@@ -2,20 +2,22 @@
 
 Full-stack developer from Himachal, India. I build trading systems, web apps, and bots -- mostly for myself, sometimes for fun.
 
+![Joined](https://img.shields.io/badge/Joined%20GitHub-Sep%202018-58a6ff?style=flat-square)
+
 
 ### What I'm working on
 
-- **[Printur](https://imemyself.dev/printur)** -- Algorithmic trading platform that trades real money while I sleep.
-- **[Printurr](https://imemyself.dev/printurr)** -- The mad scientist lab where I test trading ideas before they touch real cash. 8 engines, same chaos.
-- **[Ark](https://imemyself.dev/ark)** -- Private daily tracker for me and friends. Chat, achievements, biometric lock, and guilt-tripping streaks.
-- **[EW](https://github.com/thedev09/imemyself.dev)** -- Discord bot that does everything -- music, Clash of Clans tracking, forex calendar, and vibes.
-- **[Pesa](https://imemyself.dev/pesa)** -- Budget tracker that makes me confront my spending habits. Smart categorization included.
-- **[Dumpstr](https://imemyself.dev/dumpstr)** -- Social dump app. Post whatever, whenever. No algorithm, no pressure.
-- **[PropOp](https://imemyself.dev/PropOp)** -- Prop trading account tracker. Trades, payouts, analytics, and a journal to remember what went wrong.
-- **[Tax](https://imemyself.dev/tax)** -- Indian income tax calculator. Old vs New regime, sorted in seconds.
-- **[QR](https://imemyself.dev/qr)** -- Clean QR code generator. Paste, generate, done.
-- **[Circle](https://imemyself.dev/circle)** -- Draw a perfect circle. Spoiler: you can't.
-- **[Markdown Viewer](https://imemyself.dev/md)** -- Paste markdown, see it rendered. No sign-up, no nonsense.
+- 📈 **[Printur](https://imemyself.dev/printur)** - Algorithmic trading platform that trades real money while I sleep.
+- 🧪 **[Printurr](https://imemyself.dev/printurr)** - The mad scientist lab where I test trading ideas before they touch real cash.
+- 📓 **[Ark](https://imemyself.dev/ark)** - Private daily tracker for me and friends. Chat, achievements, and guilt-tripping streaks.
+- 🎵 **[EW](https://github.com/thedev09/imemyself.dev)** - Discord bot that does everything -- music, Clash of Clans tracking, forex calendar.
+- 💸 **[Pesa](https://imemyself.dev/pesa)** - Budget tracker that makes me confront my spending habits.
+- 🗑 **[Dumpstr](https://imemyself.dev/dumpstr)** - Social dump app. Post whatever, whenever. No algorithm, no pressure.
+- 📊 **[PropOp](https://imemyself.dev/PropOp)** - Prop trading account tracker. Trades, payouts, analytics, and a journal.
+- 🧾 **[Tax](https://imemyself.dev/tax)** - Indian income tax calculator. Old vs New regime, sorted in seconds.
+- 📱 **[QR](https://imemyself.dev/qr)** - Clean QR code generator. Paste, generate, done.
+- ⭕ **[Circle](https://imemyself.dev/circle)** - Draw a perfect circle. Spoiler: you can't.
+- 📝 **[Markdown Viewer](https://imemyself.dev/md)** - Paste markdown, see it rendered. No sign-up, no nonsense.
 
 ### Tech I use daily
 
@@ -34,10 +36,10 @@ Full-stack developer from Himachal, India. I build trading systems, web apps, an
 ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white)\
 **Backend**\
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)\
+![Express](https://img.shields.io/badge/Express-353535?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-4B8BBE?style=flat-square&logo=flask&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-35495e?style=flat-square&logo=socketdotio&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-25c2a0?style=flat-square&logo=socketdotio&logoColor=white)\
 **Databases**\
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
