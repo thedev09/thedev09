@@ -64,7 +64,7 @@ Full-stack developer from Himachal, India. I build trading systems, web apps, an
 
 ### Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=thedev09&theme=tokyonight&no-frame=true&column=7)
+![Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=thedev09&theme=tokyonight&no-frame=true&column=7)
 
 ### Links
 
@@ -72,4 +72,4 @@ Full-stack developer from Himachal, India. I build trading systems, web apps, an
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=thedev09&color=blueviolet&style=flat-square) ![Local Time](https://img.shields.io/badge/dynamic/json?color=blue&style=flat-square&label=Local%20Time&query=datetime&url=https%3A%2F%2Ftimeapi.io%2Fapi%2Ftime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FKolkata&suffix=%20IST)
+![Profile Views](https://komarev.com/ghpvc/?username=thedev09&color=blueviolet&style=flat-square) ![Local Time](https://img.shields.io/badge/dynamic/json?color=blue&style=flat-square&label=Local%20Time&query=time&url=https%3A%2F%2Ftimeapi.io%2Fapi%2Ftime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FKolkata&suffix=%20IST)
