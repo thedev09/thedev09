@@ -62,10 +62,6 @@ Full-stack developer from Himachal, India. I build trading systems, web apps, an
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thedev09&theme=tokyonight&hide_border=true)
 
-### Trophies
-
-![Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=thedev09&theme=tokyonight&no-frame=true&column=7)
-
 ### Links
 
 [`imemyself.dev`](https://imemyself.dev) | [`@thakur_d09`](https://twitter.com/thakur_d09)
