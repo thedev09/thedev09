@@ -13,6 +13,7 @@ Prompt dev from Himachal, India. I build FX algo systems, web apps, and tools, m
 
 **Apps**
 - **[dotdev TV](https://tv.imemyself.dev)** - IPTV player with ~8.3k channels, health checking, and Indian live TV.
+- **[dHz](https://radio.imemyself.dev)** - Internet radio PWA. 264k+ stations across 6 sources, continuous liveness probe, palette-themed now playing.
 - **[Kepture](https://kepture.imemyself.dev)** - Photo diary. Random notifications, 60 seconds to capture, no retakes.
 - **[Pesa](https://imemyself.dev/pesa)** - Personal finance tracker. Multi-currency, subscriptions, analytics.
 - **[Ark](https://imemyself.dev/ark)** - Private habit tracker with streaks, group chat, and leaderboard.
