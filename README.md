@@ -8,13 +8,14 @@ Prompt dev from Himachal, India. I build FX algo systems, web apps, and tools, m
 
 **FX & Algo**
 - **[Printur](https://imemyself.dev/printur)** - Algo platform. 5 engines, live capital, runs 24/7.
-- **[Printurr](https://imemyself.dev/printurr)** - Testing ground. 8 engines, where strategies get built before they go live.
+- **[Printurr](https://imemyself.dev/printurr)** - Testing ground. 9 engines, where strategies get built before they go live.
 - **[PropOp](https://imemyself.dev/PropOp)** - Prop firm account manager. Challenges, drawdowns, payouts.
 
 **Apps**
-- **[dotdev TV](https://tv.imemyself.dev)** - IPTV player with ~8.3k channels, health checking, and Indian live TV.
-- **[dHz](https://radio.imemyself.dev)** - Internet radio PWA. 264k+ stations across 6 sources, continuous liveness probe, palette-themed now playing.
+- **[dotdev TV](https://tv.imemyself.dev)** - IPTV player with ~16.4k channels, health checking, and Indian live TV.
+- **[dHz](https://radio.imemyself.dev)** - Internet radio PWA. 412k+ stations across 16 sources, continuous liveness probe, palette-themed now playing.
 - **[Kepture](https://kepture.imemyself.dev)** - Photo diary. Random notifications, 60 seconds to capture, no retakes.
+- **[MeLapse](https://melapse.imemyself.dev)** - One aligned selfie a day, morphed into an aging face time-lapse. On-device eye alignment, server-rendered films.
 - **[Pesa](https://imemyself.dev/pesa)** - Personal finance tracker. Multi-currency, subscriptions, analytics.
 - **[Ark](https://imemyself.dev/ark)** - Private habit tracker with streaks, group chat, and leaderboard.
 - **[Dumpstr](https://imemyself.dev/dumpstr)** - Notes & Todos PWA with rich text editor.
