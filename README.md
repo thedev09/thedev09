@@ -1,6 +1,6 @@
 # Hey, I'm Dev
 
-Prompt dev from Himachal, India. I build FX algo systems, web apps, and tools, mostly for myself, sometimes for fun.
+DEVloper from Himachal, India. I build algos, web apps, and tools, mostly for myself. The algos came from need, the apps from curiosity, and the tools mostly from boredom.
 
 ![Joined](https://img.shields.io/badge/Joined%20GitHub-Sep%202018-58a6ff?style=flat-square)
 
@@ -16,6 +16,7 @@ Prompt dev from Himachal, India. I build FX algo systems, web apps, and tools, m
 - **[dHz](https://radio.imemyself.dev)** - Internet radio PWA. 412k+ stations across 16 sources, continuous liveness probe, palette-themed now playing.
 - **[Kepture](https://kepture.imemyself.dev)** - Photo diary. Random notifications, 60 seconds to capture, no retakes.
 - **[MeLapse](https://melapse.imemyself.dev)** - One aligned selfie a day, morphed into an aging face time-lapse. On-device eye alignment, server-rendered films.
+- **[dhan](https://dhan.imemyself.dev)** - Wealth dashboard for Indian markets. Mutual funds and stocks X-rayed on free official data. Reads only, never trades.
 - **[Pesa](https://imemyself.dev/pesa)** - Personal finance tracker. Multi-currency, subscriptions, analytics.
 - **[Ark](https://imemyself.dev/ark)** - Private habit tracker with streaks, group chat, and leaderboard.
 - **[Dumpstr](https://imemyself.dev/dumpstr)** - Notes & Todos PWA with rich text editor.
