@@ -8,7 +8,7 @@ DEVloper from Himachal, India. I build algos, web apps, and tools, mostly for my
 
 **FX & Algo**
 - **[Printur](https://imemyself.dev/printur)** - Algo platform. 5 engines, live capital, runs 24/7.
-- **[Printurr](https://imemyself.dev/printurr)** - Testing ground. 9 engines, where strategies get built before they go live.
+- **[Printurr](https://imemyself.dev/printurr)** - Testing ground. 18 engines, where strategies get built before they go live.
 - **[PropOp](https://imemyself.dev/PropOp)** - Prop firm account manager. Challenges, drawdowns, payouts.
 
 **Apps**
@@ -25,8 +25,8 @@ DEVloper from Himachal, India. I build algos, web apps, and tools, mostly for my
 **Bots & Tools**
 - **[EW](https://github.com/thedev09/imemyself.dev)** - Discord bot. Clash of Clans tracking, music, AI chat, monitoring.
 - **[Tax](https://imemyself.dev/tax)** - Indian income tax calculator. Old vs New regime.
-- **[QR](https://imemyself.dev/qr)** - QR code generator.
-- **[Circle](https://imemyself.dev/circle)** - Draw a perfect circle. You can't.
+- **[Tools](https://imemyself.dev/tools)** - 29 everyday utilities. PDFs, images, QR, text, calculators. Everything runs in your browser, nothing leaves it.
+- **[Timepass](https://imemyself.dev/timepass)** - 12-game mini arcade. Reaction time, chimp test, draw a perfect circle. You still can't.
 - **[Markdown](https://imemyself.dev/md)** - Paste markdown, see it rendered.
 
 ### Tech I use daily
