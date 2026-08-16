@@ -26,6 +26,7 @@ DEVloper from Himachal, India. I build algos, web apps, and tools, mostly for my
 - **[EW](https://github.com/thedev09/imemyself.dev)** - Discord bot. Clash of Clans tracking, music, AI chat, monitoring.
 - **[Tax](https://imemyself.dev/tax)** - Indian income tax calculator. Old vs New regime.
 - **[Tools](https://imemyself.dev/tools)** - 29 everyday utilities. PDFs, images, QR, text, calculators. Everything runs in your browser, nothing leaves it.
+- **[Logosmith](https://imemyself.dev/logosmith)** - Icon foundry. One logo in, every web, PWA, iOS, and Android icon out. Fully client-side, nothing uploads.
 - **[Timepass](https://imemyself.dev/timepass)** - 12-game mini arcade. Reaction time, chimp test, draw a perfect circle. You still can't.
 - **[Markdown](https://imemyself.dev/md)** - Paste markdown, see it rendered.
 
