@@ -7,39 +7,39 @@ DEVloper from Himachal, India. I build algos, web apps, Windows apps, and tools,
 ### What I'm working on
 
 **FX & Algo**
-- **[Printur](https://imemyself.dev/printur)** - Algo trading platform.
-- **[Printurr](https://imemyself.dev/printurr)** - Testing ground where new strategies get built.
-- **[Printurrr](https://imemyself.dev/printurrr)** - A ground-up rebuild of Printur.
-- **[Termless](https://termless.imemyself.dev)** - MetaTrader 5 without the terminal.
-- **[Ledger](https://ledger.imemyself.dev)** - Private trade journal for me and a few friends.
-- **[PropOp](https://imemyself.dev/PropOp)** - Prop firm account manager.
+- **[Printur](https://imemyself.dev/printur)** - Algo trading platform that runs strategies across currency and commodity markets.
+- **[Printurr](https://imemyself.dev/printurr)** - Testing ground where new strategies get designed and tried side by side.
+- **[Printurrr](https://imemyself.dev/printurrr)** - A ground-up rebuild of Printur, built to be trusted with real money.
+- **[Termless](https://termless.imemyself.dev)** - MetaTrader 5 without the terminal. Your MT5 accounts on Linux, with live prices, a trading desk and an API.
+- **[Ledger](https://ledger.imemyself.dev)** - Private trade journal for me and a few friends. Log a trade in one screen, see it on the chart, get honest stats.
+- **[PropOp](https://imemyself.dev/PropOp)** - Prop firm account manager. Challenges, drawdowns and payouts across every firm.
 
 **Windows apps**
-- **[WinPulse](https://imemyself.dev/winpulse)** - What each app on your PC is using, live.
-- **[WinHours](https://imemyself.dev/winhours)** - Screen time for Windows.
-- **[WinType](https://imemyself.dev/wintype)** - Snippets and clipboard history for Windows.
-- **[WinSpace](https://imemyself.dev/winspace)** - Where your disk space went.
+- **[WinPulse](https://imemyself.dev/winpulse)** - What each app on your PC is using, live. CPU, memory, GPU, disk and network, right from the tray.
+- **[WinHours](https://imemyself.dev/winhours)** - Screen time for Windows. See where your day went by app and by site, with daily limits if you want them.
+- **[WinType](https://imemyself.dev/wintype)** - Snippets and clipboard history. Short codes turn into text you type often, and everything you copy is one shortcut away.
+- **[WinSpace](https://imemyself.dev/winspace)** - Disk space for Windows. See where your space went, what can safely go, and clear it with Undo.
 
 **Apps**
-- **[dotdev TV](https://tv.imemyself.dev)** - Live TV from around the world.
-- **[dHz](https://radio.imemyself.dev)** - Internet radio from everywhere.
-- **[Kepture](https://kepture.imemyself.dev)** - Photo diary. Random pings, 60 seconds to capture, no retakes.
+- **[dotdev TV](https://tv.imemyself.dev)** - Live TV from around the world, thousands of channels by country and genre.
+- **[dHz](https://radio.imemyself.dev)** - Internet radio. Hundreds of thousands of stations from every corner of the world.
+- **[Kepture](https://kepture.imemyself.dev)** - Photo diary that pings you at random moments. 60 seconds to capture, no retakes.
 - **[MeLapse](https://melapse.imemyself.dev)** - One selfie a day, turned into a time-lapse of your face.
-- **[Quill](https://quill.imemyself.dev)** - Private AI language coach.
-- **[dhan](https://dhan.imemyself.dev)** - Wealth dashboard for Indian markets.
-- **[Pesa](https://imemyself.dev/pesa)** - Personal finance tracker.
-- **[Ark](https://imemyself.dev/ark)** - Private habit tracker.
-- **[Dumpstr](https://imemyself.dev/dumpstr)** - Notes and todos.
+- **[Quill](https://quill.imemyself.dev)** - Private AI language coach. Checks your writing, listens to you speak, remembers what you should practice.
+- **[dhan](https://dhan.imemyself.dev)** - Wealth dashboard for Indian markets. Mutual funds and stocks, explained in plain language.
+- **[Pesa](https://imemyself.dev/pesa)** - Personal finance tracker. Multi-currency accounts, subscriptions and spending insights.
+- **[Ark](https://imemyself.dev/ark)** - Private habit tracker with streaks, calendars and a group chat for your circle.
+- **[Dumpstr](https://imemyself.dev/dumpstr)** - Notes and todos with reminders. An AI librarian tags and files everything so it stays findable.
 
 **Bots & Tools**
-- **EW** - Discord bot.
-- **[Farsight](https://farsight.imemyself.dev/status)** - Uptime monitor and status page.
-- **[Tools](https://imemyself.dev/tools)** - Everyday utilities that run in your browser.
-- **[Logosmith](https://imemyself.dev/logosmith)** - One logo in, every app icon out.
-- **[Timepass](https://imemyself.dev/timepass)** - Mini game arcade. Try drawing a perfect circle. You still can't.
-- **[Piano](https://imemyself.dev/piano)** - A playable keyboard with real instruments.
-- **[Markdown](https://imemyself.dev/md)** - Paste markdown, see it rendered.
-- **[Tax](https://imemyself.dev/tax)** - Indian income tax calculator.
+- **EW** - Discord bot. Clash of Clans tracking, music, AI chat and live TV.
+- **[Farsight](https://farsight.imemyself.dev/status)** - Uptime monitor. Watches all my apps and services, alerts me when something breaks, and keeps a public status page.
+- **[Tools](https://imemyself.dev/tools)** - Everyday utilities for PDFs, images, video, QR codes and text. Everything runs in your browser, nothing gets uploaded.
+- **[Logosmith](https://imemyself.dev/logosmith)** - Icon generator. One logo in, every web, iOS and Android icon out.
+- **[Timepass](https://imemyself.dev/timepass)** - Mini game arcade. Reaction time, chimp test, draw a perfect circle. You still can't.
+- **[Piano](https://imemyself.dev/piano)** - A playable keyboard with eight real instruments, from grand piano to harmonium. Type, click or tap to play.
+- **[Markdown](https://imemyself.dev/md)** - Paste markdown, get a clean rendered view. Math, diagrams, share by link.
+- **[Tax](https://imemyself.dev/tax)** - Indian income tax calculator. Old vs New regime, side by side.
 - Also: **[Bin](https://bin.imemyself.dev)** (paste and share), **[Draw](https://draw.imemyself.dev)** (whiteboard), **[Send](https://send.imemyself.dev)** (files between devices).
 
 Everything in one place: **[imemyself.dev/apps](https://imemyself.dev/apps)**
