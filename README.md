@@ -7,41 +7,40 @@ DEVloper from Himachal, India. I build algos, web apps, Windows apps, and tools,
 ### What I'm working on
 
 **FX & Algo**
-- **[Printur](https://imemyself.dev/printur)** - Algo platform. 5 engines, runs 24/7, forward-testing on a demo account.
-- **[Printurr](https://imemyself.dev/printurr)** - Testing ground. 18 engines, where strategies get built before they go anywhere near money.
-- **[Printurrr](https://imemyself.dev/printurrr)** - A clean-room rebuild of Printur, made to be trusted with money. MT5 is the single source of truth, every order passes a real risk gate. 15 engines on 20 pairs, proving themselves on demo.
-- **[Termless](https://termless.imemyself.dev)** - MetaTrader 5 without the terminal. A native MT5 client for Linux in Rust, no Windows, no Wine. A Python package with the official `MetaTrader5` API, a CLI, and a gateway server with a trading desk, live prices and an API for every app.
-- **[Ledger](https://ledger.imemyself.dev)** - Private trade journal for me and a few friends. Log a trade in one screen, see it on a real candle chart, live prices, auto-close at SL/TP, and honest stats.
-- **[PropOp](https://imemyself.dev/PropOp)** - Prop firm account manager. Challenges, drawdowns, payouts.
-- **Backtesters** - Two walk-forward harnesses replaying millions of real candles, so no engine goes live on a hunch.
+- **[Printur](https://imemyself.dev/printur)** - Algo trading platform.
+- **[Printurr](https://imemyself.dev/printurr)** - Testing ground where new strategies get built.
+- **[Printurrr](https://imemyself.dev/printurrr)** - A ground-up rebuild of Printur.
+- **[Termless](https://termless.imemyself.dev)** - MetaTrader 5 without the terminal.
+- **[Ledger](https://ledger.imemyself.dev)** - Private trade journal for me and a few friends.
+- **[PropOp](https://imemyself.dev/PropOp)** - Prop firm account manager.
 
-**Windows apps** (free, Rust)
-- **[WinPulse](https://imemyself.dev/winpulse)** - What each app uses, live. CPU, memory, GPU, disk, network and power per app, from the tray, with a week of history.
-- **[WinHours](https://imemyself.dev/winhours)** - Screen time for Windows. Where your day went by app, site and window, with daily limits if you want them.
-- **[WinType](https://imemyself.dev/wintype)** - Snippets and clipboard history. Short codes become the text you type often, and everything you copy is one shortcut away.
-- **[WinSpace](https://imemyself.dev/winspace)** - Where your disk space went. Reads the whole drive in seconds, shows what can go and how it knows, cleans only to the Recycle Bin with Undo.
+**Windows apps**
+- **[WinPulse](https://imemyself.dev/winpulse)** - What each app on your PC is using, live.
+- **[WinHours](https://imemyself.dev/winhours)** - Screen time for Windows.
+- **[WinType](https://imemyself.dev/wintype)** - Snippets and clipboard history for Windows.
+- **[WinSpace](https://imemyself.dev/winspace)** - Where your disk space went.
 
 **Apps**
-- **[dotdev TV](https://tv.imemyself.dev)** - IPTV player with ~16.4k channels, health checking, and Indian live TV.
-- **[dHz](https://radio.imemyself.dev)** - Internet radio PWA. 412k+ stations across 16 sources, continuous liveness probe, palette-themed now playing.
-- **[Kepture](https://kepture.imemyself.dev)** - Photo diary. Random notifications, 60 seconds to capture, no retakes.
-- **[MeLapse](https://melapse.imemyself.dev)** - One aligned selfie a day, morphed into an aging face time-lapse. On-device eye alignment, server-rendered films.
-- **[Quill](https://quill.imemyself.dev)** - Private AI language coach. Checks your writing, listens to you speak, and remembers what you should practice.
-- **[dhan](https://dhan.imemyself.dev)** - Wealth dashboard for Indian markets. Mutual funds and stocks X-rayed on free official data. Reads only, never trades.
-- **[Pesa](https://imemyself.dev/pesa)** - Personal finance tracker. Multi-currency, subscriptions, analytics.
-- **[Ark](https://imemyself.dev/ark)** - Private habit tracker with streaks, group chat, and leaderboard.
-- **[Dumpstr](https://imemyself.dev/dumpstr)** - Notes & Todos PWA. Local-first, reminders by push and email, an AI librarian that tags and files everything.
+- **[dotdev TV](https://tv.imemyself.dev)** - Live TV from around the world.
+- **[dHz](https://radio.imemyself.dev)** - Internet radio from everywhere.
+- **[Kepture](https://kepture.imemyself.dev)** - Photo diary. Random pings, 60 seconds to capture, no retakes.
+- **[MeLapse](https://melapse.imemyself.dev)** - One selfie a day, turned into a time-lapse of your face.
+- **[Quill](https://quill.imemyself.dev)** - Private AI language coach.
+- **[dhan](https://dhan.imemyself.dev)** - Wealth dashboard for Indian markets.
+- **[Pesa](https://imemyself.dev/pesa)** - Personal finance tracker.
+- **[Ark](https://imemyself.dev/ark)** - Private habit tracker.
+- **[Dumpstr](https://imemyself.dev/dumpstr)** - Notes and todos.
 
 **Bots & Tools**
-- **EW** - Discord bot. Clash of Clans tracking, music, AI chat, live TV, monitoring.
-- **[Farsight](https://farsight.imemyself.dev/status)** - My own uptime monitor. One Rust binary on a free VM watching every box, site, API, VPN and DNS record, with alerts and a public status page.
-- **[Tools](https://imemyself.dev/tools)** - 41 everyday utilities. PDFs, images, video, QR, text, dev. Everything runs in your browser, nothing leaves it.
-- **[Logosmith](https://imemyself.dev/logosmith)** - Icon foundry. One logo in, every web, PWA, iOS, and Android icon out. Fully client-side, nothing uploads.
-- **[Timepass](https://imemyself.dev/timepass)** - 18-game mini arcade. Reaction time, chimp test, draw a perfect circle. You still can't.
-- **[Piano](https://imemyself.dev/piano)** - 8 real instruments, from grand piano to harmonium with a tanpura drone. Type, click or tap to play.
+- **EW** - Discord bot.
+- **[Farsight](https://farsight.imemyself.dev/status)** - Uptime monitor and status page.
+- **[Tools](https://imemyself.dev/tools)** - Everyday utilities that run in your browser.
+- **[Logosmith](https://imemyself.dev/logosmith)** - One logo in, every app icon out.
+- **[Timepass](https://imemyself.dev/timepass)** - Mini game arcade. Try drawing a perfect circle. You still can't.
+- **[Piano](https://imemyself.dev/piano)** - A playable keyboard with real instruments.
 - **[Markdown](https://imemyself.dev/md)** - Paste markdown, see it rendered.
-- **[Tax](https://imemyself.dev/tax)** - Indian income tax calculator. Old vs New regime.
-- Self-hosted for everyday use: **[Bin](https://bin.imemyself.dev)** (paste and share), **[Draw](https://draw.imemyself.dev)** (whiteboard), **[Send](https://send.imemyself.dev)** (files between devices).
+- **[Tax](https://imemyself.dev/tax)** - Indian income tax calculator.
+- Also: **[Bin](https://bin.imemyself.dev)** (paste and share), **[Draw](https://draw.imemyself.dev)** (whiteboard), **[Send](https://send.imemyself.dev)** (files between devices).
 
 Everything in one place: **[imemyself.dev/apps](https://imemyself.dev/apps)**
 
