@@ -33,11 +33,13 @@ DEVloper from Himachal, India. I build algos, web apps, Windows and iPhone apps,
 - **[dhan](https://dhan.imemyself.dev)** - Wealth dashboard for Indian markets. Mutual funds and stocks, explained in plain language.
 - **[Pesa](https://imemyself.dev/pesa)** - Personal finance tracker. Multi-currency accounts, subscriptions, SIPs, loans and spending insights.
 - **[Ark](https://imemyself.dev/ark)** - Private habit tracker with streaks, calendars and a group chat for your circle.
-- **[Dumpstr](https://imemyself.dev/dumpstr)** - Notes and todos with reminders. Works offline, and an AI librarian suggests a folder for each note.
+- **[Dumpstr](https://imemyself.dev/dumpstr)** - Notes and todos with reminders. Works offline, and a note left without a folder can be filed for you.
+- **[Attic](https://attic.imemyself.dev)** - Private inventory of everything you own, sorted into categories, each item with a photo and its last known location. Invite only.
 
 **Bots & Tools**
 - **EW** - Discord bot. Clash of Clans tracking, music, AI chat, live TV and AI voice.
 - **[Farsight](https://status.imemyself.dev)** - Uptime monitor. Watches all my apps and services, alerts me when something breaks, and keeps a public status page.
+- **Orrery** - Server dashboard. Every server at a glance, then everything running on each one: containers, services, traffic, websites, certificates and logs, with alerts when something is off.
 - **[Parchi](https://parchi.imemyself.dev)** - Paste text, code, markdown, links or pictures and get a short link that reads well anywhere.
 - **[Tools](https://imemyself.dev/tools)** - Everyday utilities for PDFs, images, video, QR codes and text. Everything runs in your browser, nothing gets uploaded.
 - **[Logosmith](https://imemyself.dev/logosmith)** - Icon generator. One logo in, every web, iOS, Android, macOS and Windows icon out.
